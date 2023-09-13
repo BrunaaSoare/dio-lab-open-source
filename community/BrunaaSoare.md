@@ -1,5 +1,5 @@
 # OLÁ, SOU A BRUNA E ESSE É MEU GITHUB |
-Me chamo Bruna Gabriela Soares de LIma, tenho 19 anos e atualmente moro na cidade de João Pessoa na Paraíba. Sou graduanda de Ciência da Computação pela Unipê e esse mundo vasto da tecnologia me fascina! Meu principal interesse é na área de dados e pretendo trabalhar com isso futuramente. 
+Me chamo Bruna Gabriela Soares de Lima, tenho 19 anos e atualmente moro na cidade de João Pessoa na Paraíba. Sou graduanda de Ciência da Computação pela Unipê e esse mundo vasto da tecnologia me fascina! Meu principal interesse é na área de dados e pretendo trabalhar com isso futuramente. 
 # CONECTE-SE COMIGO |
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/bruna-gabriela-soares/)
 
